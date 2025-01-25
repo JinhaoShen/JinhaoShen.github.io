@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shen Jinhao"
   avatar           : "sjh_white.png"
-  bio              : "Graduate at Northwestern Polytechnical University"
+  bio              : # "Graduate at Northwestern Polytechnical University"
   location         : "Xi'an, China"
   employer         :
   pubmed           : #
