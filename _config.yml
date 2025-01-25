@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shen Jinhao / 沈金昊"
+title                    : "Jinhao Shen / 沈金昊"
 title_separator          : "-"
-name                     : &name "Shen Jinhao"
+name                     : &name "Jinhao Shen"
 description              : &description "Welcome to my webpage!"
 url                      : https://JinhaoShen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
