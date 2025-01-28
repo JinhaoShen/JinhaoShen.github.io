@@ -16,8 +16,8 @@ Emails: shenjinhao@mail.nwpu.edu.cn; jinhaoshen00@gmail.com
 
 
 ### :mortar_board: Education 
-- 2022.09 - present &emsp;  M.Eng. in Computer Science and Technology from School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, Xi’an, China.
-- 2018.09 - 2022.07 &emsp;  B.Eng. in Automation from Honors College, Northwestern Polytechnical University, Xi’an, China.
+- 2022.09 - present &emsp;  M.Eng. in Computer Science and Technology from School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, Xi'an, China.
+- 2018.09 - 2022.07 &emsp;  B.Eng. in Automation from Honors College, Northwestern Polytechnical University, Xi'an, China.
 
 
 ### :memo: Publications
