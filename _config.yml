@@ -209,6 +209,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: false
+      nav: false
   # _teaching
   - scope:
       path: ""
