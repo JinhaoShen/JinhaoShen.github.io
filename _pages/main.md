@@ -12,7 +12,6 @@ Hi! My name is Shen Jinhao. I am pursuing the M.S degree at the School of Artifi
 
 My research interests lie in the multimodal, computer vision, and remote sensing. 
 
-Emails: shenjinhao@mail.nwpu.edu.cn; jinhaoshen00@gmail.com
 
 
 ### :mortar_board: Education 
@@ -29,13 +28,11 @@ Emails: shenjinhao@mail.nwpu.edu.cn; jinhaoshen00@gmail.com
 ### :globe_with_meridians: Academic Activities
 - Regular journal reviewer of IEEE Transactions on Geoscience and Remote Sensing.
 
-<!-- ## Contact
-### Email
-[firstname].[lastname]16 [at] imperial.ac.uk
 
-### Address
-Office 617 \
-Huxley Building \
-180 Queen's Gate, South Kensington \
-London SW7 2AZ \
-UK -->
+### :telephone_receiver: Contact
+Emails: shenjinhao@mail.nwpu.edu.cn; jinhaoshen00@gmail.com
+
+
+### :house: Address
+P.O. Box 64, 127 West Youyi Road, Beilin District, Xi'an 710072, Shaanxi, P.R. China
+
