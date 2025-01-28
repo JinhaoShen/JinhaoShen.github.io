@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 Hi! My name is Shen Jinhao. I am pursuing the M.S degree at the School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, advised by [Prof. Qi Wang](https://crabwq.github.io/), [Prof. Yuan Yuan](https://iopen.nwpu.edu.cn/info/1329/1385.htm), and [Prof. Xuelong Li](http://xuelongli.cn/en.php). 
-
 My research interests lie in the multimodal, computer vision, and remote sensing. 
 
 
