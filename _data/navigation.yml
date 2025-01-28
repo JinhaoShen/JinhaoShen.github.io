@@ -3,14 +3,14 @@ main:
   # - title: "Research"
   #   url: /research/
 
-  - title: "About Me"
-    url: /about_me/
+  # - title: "About Me"
+  #   url: /about_me/
 
   # - title: "Imperial Maths Competition"
   #   url: /imperial_maths_competition/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
 
 #  - title: "Talks"
 #    url: /talks/    
