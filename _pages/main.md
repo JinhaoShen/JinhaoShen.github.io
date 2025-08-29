@@ -29,7 +29,7 @@ My research interests lie in the multimodal, computer vision, and remote sensing
 
 
 ### :telephone_receiver: Contact
-Emails: shenjinhao@mail.nwpu.edu.cn; jinhaoshen00@gmail.com
+Emails: jinhao00.shen@connect.polyu.hk; jinhaoshen00@gmail.com
 
 
 ### :house: Address
