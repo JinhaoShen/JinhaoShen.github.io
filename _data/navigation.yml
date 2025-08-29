@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "Blog"
+    url: /blog/
 
-  - title: "About Me"
-    url: /about_me/
+  # - title: "About Me"
+  #   url: /about_me/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
 
 #  - title: "Talks"
 #    url: /talks/    
